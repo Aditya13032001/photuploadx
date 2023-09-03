@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photouploadx/static/css/main.84857d96.css",
+    "main.js": "/photouploadx/static/js/main.88c7474c.js",
+    "index.html": "/photouploadx/index.html",
+    "main.84857d96.css.map": "/photouploadx/static/css/main.84857d96.css.map",
+    "main.88c7474c.js.map": "/photouploadx/static/js/main.88c7474c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84857d96.css",
+    "static/js/main.88c7474c.js"
+  ]
+}
